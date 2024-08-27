@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "moremetals",
+	"version": "${version}",
+	"name": "moremetals",
+	"description": "Adds More Metals!",
+	"authors": [
+		"slyzoo"
+	],
+	"contact": {
+		"homepage": "https://slyzoo.net/",
+		"sources": "https://github.com/slyzoo/More-Metals-1.21"
+	},
+	"license": "MIT",
+	"icon": "assets/moremetals/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.slyzoo.moremetals.Moremetals"
+		],
+		"fabric-datagen": [
+			"net.slyzoo.moremetals.MoremetalsDataGenerator"
+		],
+		"client": [
+			"net.slyzoo.moremetals.MoreMetalsClient"
+		]
+	},
+	"mixins": [
+		"moremetals.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
