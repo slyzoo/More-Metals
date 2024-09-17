@@ -13,7 +13,9 @@ public class ModItems {
     // (all textures from gold ingot)
 
     public static final Item ALUMINIUM_INGOT = registerItem("aluminium_ingot", new Item(new Item.Settings()));
-// ngl i dont even remember
+// saturation : -100
+// lightness : 26
+
     public static final Item BRASS_INGOT = registerItem("brass_ingot", new Item(new Item.Settings()));
 //  hue : -15
 
@@ -25,10 +27,11 @@ public class ModItems {
 
     public static final Item PLATINUM_INGOT = registerItem("platinum_ingot", new Item(new Item.Settings()));
 //  hue : 115
-//  saturation : something low i dont remember
+//  saturation : -50
+// lightness : -45
 
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
-//  saturation : 0
+//  saturation : -100
 //  lightness : -50
 
     public static final Item TITANIUM_INGOT = registerItem("titanium_ingot", new Item(new Item.Settings()));
@@ -37,17 +40,19 @@ public class ModItems {
 //  saturation : -90
 
     public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new Item.Settings()));
-//  saturation : 0
+//  saturation : -100
 //  lightness : 100
+
     public static final Item ZINC_INGOT = registerItem("zinc_ingot", new Item(new Item.Settings()));
 //  saturation : -65
 //  hue : 82
 
-
+// Registers the Mod Item
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(Moremetals.MOD_ID, name), item);
     };
 
+// Adds the Mod Items to the vanilla Tabs (Ingredients) & does the Logger
     public static void registerModItems(){
         Moremetals.LOGGER.info("Registering Mod Items for " + Moremetals.MOD_ID);
 

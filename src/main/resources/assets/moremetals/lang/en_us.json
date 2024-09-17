@@ -7,5 +7,15 @@
   "item.moremetals.steel_ingot" : "Steel Ingot",
   "item.moremetals.titanium_ingot" : "Titanium Ingot",
   "item.moremetals.tin_ingot" : "Tin Ingot",
-  "item.moremetals.zinc_ingot" : "Zinc Ingot"
+  "item.moremetals.zinc_ingot" : "Zinc Ingot",
+
+  "block.moremetals.aluminium_block" : "Aluminium Block",
+  "block.moremetals.brass_block" : "Brass Block",
+  "block.moremetals.bronze_block" : "Bronze Block",
+  "block.moremetals.purple_gold_block" : "Purple Gold Block",
+  "block.moremetals.platinum_block" : "Platinum Block",
+  "block.moremetals.steel_block" : "Steel Block",
+  "block.moremetals.titanium_block" : "Titanium Block",
+  "block.moremetals.tin_block" : "Tin Block",
+  "block.moremetals.zinc_block" : "Zinc Block"
 }
