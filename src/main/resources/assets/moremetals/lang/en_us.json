@@ -17,5 +17,7 @@
   "block.moremetals.steel_block" : "Steel Block",
   "block.moremetals.titanium_block" : "Titanium Block",
   "block.moremetals.tin_block" : "Tin Block",
-  "block.moremetals.zinc_block" : "Zinc Block"
+  "block.moremetals.zinc_block" : "Zinc Block",
+
+  "itemgroup.moremetals.purple_gold_ingot_items" : "More Metals"
 }

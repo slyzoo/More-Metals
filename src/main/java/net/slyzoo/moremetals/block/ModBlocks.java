@@ -63,6 +63,8 @@ public class ModBlocks {
     public static void registerModBlocks(){
         Moremetals.LOGGER.info("Registering Mod Blocks for "+ Moremetals.MOD_ID);
 
+/* Adds Mod Blocks to Minecraft vanilla tab (Ingredients)
+
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(ALUMINIUM_BLOCK);
             entries.add(BRASS_BLOCK);
@@ -73,6 +75,6 @@ public class ModBlocks {
             entries.add(TIN_BLOCK);
             entries.add(TITANIUM_BLOCK);
             entries.add(ZINC_BLOCK);
-        });
+        });*/
     }
 }

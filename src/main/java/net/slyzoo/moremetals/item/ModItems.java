@@ -56,6 +56,7 @@ public class ModItems {
     public static void registerModItems(){
         Moremetals.LOGGER.info("Registering Mod Items for " + Moremetals.MOD_ID);
 
+/* Adds Mod Items To Vanilla Tabs (Ingredients)
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(ALUMINIUM_INGOT);
             entries.add(BRASS_INGOT);
@@ -66,6 +67,6 @@ public class ModItems {
             entries.add(TITANIUM_INGOT);
             entries.add(TIN_INGOT);
             entries.add(ZINC_INGOT);
-        });
+        });*/
     }
 }
