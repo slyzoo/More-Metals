@@ -11,6 +11,13 @@ import net.slyzoo.moremetals.Moremetals;
 public class ModItems {
 
     // (all textures from gold ingot)
+// Raw ingots
+    public static final Item RAW_ALUMINIUM = registerItem("raw_aluminium", new Item(new Item.Settings()));
+    public static final Item RAW_BRONZE = registerItem("raw_bronze", new Item(new Item.Settings()));
+    public static final Item RAW_PLATINUM = registerItem("raw_platinum", new Item(new Item.Settings()));
+    public static final Item RAW_TITANIUM = registerItem("raw_titanium", new Item(new Item.Settings()));
+    public static final Item RAW_TIN = registerItem("raw_tin", new Item(new Item.Settings()));
+    public static final Item RAW_ZINC = registerItem("raw_zinc", new Item(new Item.Settings()));
 
     public static final Item ALUMINIUM_INGOT = registerItem("aluminium_ingot", new Item(new Item.Settings()));
 // saturation : -100

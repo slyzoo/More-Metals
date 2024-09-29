@@ -1,4 +1,18 @@
 {
+  "item.moremetals.raw_aluminium" : "Raw Aluminium",
+  "item.moremetals.raw_bronze" : "Raw Bronze",
+  "item.moremetals.raw_platinum" : "Raw Platinum",
+  "item.moremetals.raw_titanium" : "Raw Titanium",
+  "item.moremetals.raw_tin" : "Raw Tin",
+  "item.moremetals.raw_zinc" : "Raw Zinc",
+
+  "block.moremetals.raw_aluminium_block" : "Block of Raw Aluminium",
+  "block.moremetals.raw_bronze_block" : "Block of Raw Bronze",
+  "block.moremetals.raw_platinum_block" : "Block of Raw Platinum",
+  "block.moremetals.raw_titanium_block" : "Block of Raw Titanium",
+  "block.moremetals.raw_tin_block" : "Block of Raw Tin",
+  "block.moremetals.raw_zinc_block" : "Block of Raw Zinc",
+
   "item.moremetals.aluminium_ingot" : "Aluminium Ingot",
   "item.moremetals.brass_ingot" : "Brass Ingot",
   "item.moremetals.bronze_ingot" : "Bronze Ingot",
@@ -9,15 +23,15 @@
   "item.moremetals.tin_ingot" : "Tin Ingot",
   "item.moremetals.zinc_ingot" : "Zinc Ingot",
 
-  "block.moremetals.aluminium_block" : "Aluminium Block",
-  "block.moremetals.brass_block" : "Brass Block",
-  "block.moremetals.bronze_block" : "Bronze Block",
-  "block.moremetals.purple_gold_block" : "Purple Gold Block",
-  "block.moremetals.platinum_block" : "Platinum Block",
-  "block.moremetals.steel_block" : "Steel Block",
-  "block.moremetals.titanium_block" : "Titanium Block",
-  "block.moremetals.tin_block" : "Tin Block",
-  "block.moremetals.zinc_block" : "Zinc Block",
+  "block.moremetals.aluminium_block" : "Block of Aluminium",
+  "block.moremetals.brass_block" : "Block of Brass",
+  "block.moremetals.bronze_block" : "Block of Bronze",
+  "block.moremetals.purple_gold_block" : "Block of Purple Gold",
+  "block.moremetals.platinum_block" : "Block of Platinum",
+  "block.moremetals.steel_block" : "Block of Steel",
+  "block.moremetals.titanium_block" : "Block of Titanium",
+  "block.moremetals.tin_block" : "Block of Tin",
+  "block.moremetals.zinc_block" : "Block of Zinc",
 
   "itemgroup.moremetals.purple_gold_ingot_items" : "More Metals"
 }

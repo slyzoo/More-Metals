@@ -21,10 +21,16 @@ public class ModBlocks {
     public static final Block ALUMINIUM_BLOCK = registerBlock("aluminium_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
+    public static final Block RAW_ALUMINIUM_BLOCK = registerBlock("raw_aluminium_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
+
     public static final Block BRASS_BLOCK = registerBlock("brass_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.COPPER)));
 
     public static final Block BRONZE_BLOCK = registerBlock("bronze_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.COPPER)));
+
+    public static final Block RAW_BRONZE_BLOCK = registerBlock("raw_bronze_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.COPPER)));
 
     public static final Block PURPLE_GOLD_BLOCK = registerBlock("purple_gold_block",
@@ -33,16 +39,28 @@ public class ModBlocks {
     public static final Block PLATINUM_BLOCK = registerBlock("platinum_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
+    public static final Block RAW_PLATINUM_BLOCK = registerBlock("raw_platinum_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
+
     public static final Block STEEL_BLOCK = registerBlock("steel_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
     public static final Block TITANIUM_BLOCK = registerBlock("titanium_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
+    public static final Block RAW_TITANIUM_BLOCK = registerBlock("raw_titanium_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
+
     public static final Block TIN_BLOCK = registerBlock("tin_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
+    public static final Block RAW_TIN_BLOCK = registerBlock("raw_tin_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
+
     public static final Block ZINC_BLOCK = registerBlock("zinc_block",
+            new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
+
+    public static final Block RAW_ZINC_BLOCK = registerBlock("raw_zinc_block",
             new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.METAL)));
 
 

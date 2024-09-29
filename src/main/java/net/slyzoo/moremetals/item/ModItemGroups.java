@@ -19,22 +19,34 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.ALUMINIUM_INGOT);
                         entries.add(ModBlocks.ALUMINIUM_BLOCK);
+                        entries.add(ModItems.RAW_ALUMINIUM);
+                        entries.add(ModBlocks.RAW_ALUMINIUM_BLOCK);
                         entries.add(ModItems.BRASS_INGOT);
                         entries.add(ModBlocks.BRASS_BLOCK);
                         entries.add(ModItems.BRONZE_INGOT);
                         entries.add(ModBlocks.BRONZE_BLOCK);
+                        entries.add(ModItems.RAW_BRONZE);
+                        entries.add(ModBlocks.RAW_BRONZE_BLOCK);
                         entries.add(ModItems.PLATINUM_INGOT);
                         entries.add(ModBlocks.PLATINUM_BLOCK);
+                        entries.add(ModItems.RAW_PLATINUM);
+                        entries.add(ModBlocks.RAW_PLATINUM_BLOCK);
                         entries.add(ModItems.PURPLE_GOLD_INGOT);
                         entries.add(ModBlocks.PURPLE_GOLD_BLOCK);
                         entries.add(ModItems.STEEL_INGOT);
                         entries.add(ModBlocks.STEEL_BLOCK);
                         entries.add(ModItems.TIN_INGOT);
                         entries.add(ModBlocks.TIN_BLOCK);
+                        entries.add(ModItems.RAW_TIN);
+                        entries.add(ModBlocks.RAW_TIN_BLOCK);
                         entries.add(ModItems.TITANIUM_INGOT);
                         entries.add(ModBlocks.TITANIUM_BLOCK);
+                        entries.add(ModItems.RAW_TITANIUM);
+                        entries.add(ModBlocks.RAW_TITANIUM_BLOCK);
                         entries.add(ModItems.ZINC_INGOT);
                         entries.add(ModBlocks.ZINC_BLOCK);
+                        entries.add(ModItems.RAW_ZINC);
+                        entries.add(ModBlocks.RAW_ZINC_BLOCK);
                     })
                     .build());
 
