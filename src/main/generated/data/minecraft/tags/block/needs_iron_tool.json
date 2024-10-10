@@ -1,0 +1,25 @@
+{
+  "values": [
+    "moremetals:aluminium_block",
+    "moremetals:raw_aluminium_block",
+    "moremetals:aluminium_ore",
+    "moremetals:deepslate_aluminium_ore",
+    "moremetals:lead_block",
+    "moremetals:raw_lead_block",
+    "moremetals:lead_ore",
+    "moremetals:deepslate_lead_ore",
+    "moremetals:platinum_block",
+    "moremetals:raw_platinum_block",
+    "moremetals:platinum_ore",
+    "moremetals:deepslate_platinum_ore",
+    "moremetals:purple_gold_block",
+    "moremetals:titanium_block",
+    "moremetals:raw_titanium_block",
+    "moremetals:titanium_ore",
+    "moremetals:deepslate_titanium_ore",
+    "moremetals:zinc_block",
+    "moremetals:raw_zinc_block",
+    "moremetals:zinc_ore",
+    "moremetals:deepslate_zinc_ore"
+  ]
+}

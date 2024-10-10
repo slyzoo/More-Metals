@@ -1,37 +1,54 @@
 {
-  "item.moremetals.raw_aluminium" : "Raw Aluminium",
-  "item.moremetals.raw_bronze" : "Raw Bronze",
-  "item.moremetals.raw_platinum" : "Raw Platinum",
-  "item.moremetals.raw_titanium" : "Raw Titanium",
-  "item.moremetals.raw_tin" : "Raw Tin",
-  "item.moremetals.raw_zinc" : "Raw Zinc",
-
-  "block.moremetals.raw_aluminium_block" : "Block of Raw Aluminium",
-  "block.moremetals.raw_bronze_block" : "Block of Raw Bronze",
-  "block.moremetals.raw_platinum_block" : "Block of Raw Platinum",
-  "block.moremetals.raw_titanium_block" : "Block of Raw Titanium",
-  "block.moremetals.raw_tin_block" : "Block of Raw Tin",
-  "block.moremetals.raw_zinc_block" : "Block of Raw Zinc",
-
   "item.moremetals.aluminium_ingot" : "Aluminium Ingot",
-  "item.moremetals.brass_ingot" : "Brass Ingot",
-  "item.moremetals.bronze_ingot" : "Bronze Ingot",
-  "item.moremetals.purple_gold_ingot" : "Purple Gold Ingot",
-  "item.moremetals.platinum_ingot" : "Platinum Ingot",
-  "item.moremetals.steel_ingot" : "Steel Ingot",
-  "item.moremetals.titanium_ingot" : "Titanium Ingot",
-  "item.moremetals.tin_ingot" : "Tin Ingot",
-  "item.moremetals.zinc_ingot" : "Zinc Ingot",
-
   "block.moremetals.aluminium_block" : "Block of Aluminium",
+  "item.moremetals.raw_aluminium" : "Raw Aluminium",
+  "block.moremetals.raw_aluminium_block" : "Block of Raw Aluminium",
+  "block.moremetals.aluminium_ore" : "Aluminium Ore",
+  "block.moremetals.deepslate_aluminium_ore" : "Deepslate Aluminium Ore",
+
+  "item.moremetals.brass_ingot" : "Brass Ingot",
   "block.moremetals.brass_block" : "Block of Brass",
+
+  "item.moremetals.bronze_ingot" : "Bronze Ingot",
   "block.moremetals.bronze_block" : "Block of Bronze",
+  "item.moremetals.raw_bronze" : "Raw Bronze",
+  "block.moremetals.raw_bronze_block" : "Block of Raw Bronze",
+  "block.moremetals.bronze_ore" : "Bronze Ore",
+  "block.moremetals.deepslate_bronze_ore" : "Deepslate Bronze Ore",
+
+  "item.moremetals.purple_gold_ingot" : "Purple Gold Ingot",
   "block.moremetals.purple_gold_block" : "Block of Purple Gold",
+
+  "item.moremetals.platinum_ingot" : "Platinum Ingot",
   "block.moremetals.platinum_block" : "Block of Platinum",
+  "item.moremetals.raw_platinum" : "Raw Platinum",
+  "block.moremetals.raw_platinum_block" : "Block of Raw Platinum",
+  "block.moremetals.platinum_ore" : "Platinum Ore",
+  "block.moremetals.deepslate_platinum_ore" : "Deepslate Platinum Ore",
+
+  "item.moremetals.steel_ingot" : "Steel Ingot",
   "block.moremetals.steel_block" : "Block of Steel",
+
+  "item.moremetals.titanium_ingot" : "Titanium Ingot",
   "block.moremetals.titanium_block" : "Block of Titanium",
+  "item.moremetals.raw_titanium" : "Raw Titanium",
+  "block.moremetals.raw_titanium_block" : "Block of Raw Titanium",
+  "block.moremetals.titanium_ore" : "Titanium Ore",
+  "block.moremetals.deepslate_titanium_ore" : "Deepslate Titanium Ore",
+
+  "item.moremetals.tin_ingot" : "Tin Ingot",
   "block.moremetals.tin_block" : "Block of Tin",
+  "item.moremetals.raw_tin" : "Raw Tin",
+  "block.moremetals.raw_tin_block" : "Block of Raw Tin",
+  "block.moremetals.tin_ore" : "Tin Ore",
+  "block.moremetals.deepslate_tin_ore" : "Deepslate Tin Ore",
+
+  "item.moremetals.zinc_ingot" : "Zinc Ingot",
   "block.moremetals.zinc_block" : "Block of Zinc",
+  "item.moremetals.raw_zinc" : "Raw Zinc",
+  "block.moremetals.raw_zinc_block" : "Block of Raw Zinc",
+  "block.moremetals.zinc_ore" : "Zinc Ore",
+  "block.moremetals.deepslate_zinc_ore" : "Deepslate Zinc Ore",
 
   "itemgroup.moremetals.purple_gold_ingot_items" : "More Metals"
 }

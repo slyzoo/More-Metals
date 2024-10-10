@@ -1,0 +1,13 @@
+{
+  "values": [
+    "moremetals:brass_block",
+    "moremetals:bronze_block",
+    "moremetals:raw_bronze_block",
+    "moremetals:bronze_ore",
+    "moremetals:deepslate_bronze_ore",
+    "moremetals:tin_block",
+    "moremetals:raw_tin_block",
+    "moremetals:tin_ore",
+    "moremetals:deepslate_tin_ore"
+  ]
+}
