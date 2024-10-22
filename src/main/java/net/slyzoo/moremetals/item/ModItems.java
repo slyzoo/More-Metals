@@ -40,8 +40,8 @@ public class ModItems {
     public static final Item PLATINUM_NUGGET = registerItem("platinum_nugget", new Item(new Item.Settings()));
     public static final Item RAW_PLATINUM = registerItem("raw_platinum", new Item(new Item.Settings()));
 //  hue : 115
-//  saturation : -50
 // lightness : -45
+//  saturation : -50
 
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
     public static final Item STEEL_NUGGET = registerItem("steel_nugget", new Item(new Item.Settings()));

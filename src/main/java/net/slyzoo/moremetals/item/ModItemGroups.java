@@ -39,7 +39,11 @@ public class ModItemGroups {
 
                         entries.add(ModItems.LEAD_INGOT);
                         entries.add(ModItems.LEAD_NUGGET);
+                        entries.add(ModBlocks.LEAD_BLOCK);
                         entries.add(ModItems.RAW_LEAD);
+                        entries.add(ModBlocks.RAW_LEAD_BLOCK);
+                        entries.add(ModBlocks.LEAD_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_LEAD_ORE);
 
                         entries.add(ModItems.PLATINUM_INGOT);
                         entries.add(ModItems.PLATINUM_NUGGET);
@@ -50,7 +54,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.DEEPSLATE_PLATINUM_ORE);
 
                         entries.add(ModItems.PURPLE_GOLD_INGOT);
-                        entries.add(ModItems.PLATINUM_NUGGET);
+                        entries.add(ModItems.PURPLE_GOLD_NUGGET);
                         entries.add(ModBlocks.PURPLE_GOLD_BLOCK);
 
                         entries.add(ModItems.STEEL_INGOT);

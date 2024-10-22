@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    },
+    {
+      "item": "moremetals:purple_gold_nugget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "moremetals:purple_gold_ingot"
+  }
+}

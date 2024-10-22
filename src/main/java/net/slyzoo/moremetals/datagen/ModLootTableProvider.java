@@ -15,6 +15,8 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
     @Override
     public void generate() {
+
+        // block drops block
         addDrop(ModBlocks.ALUMINIUM_BLOCK);
         addDrop(ModBlocks.RAW_ALUMINIUM_BLOCK);
         addDrop(ModBlocks.BRASS_BLOCK);
@@ -33,12 +35,15 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.ZINC_BLOCK);
         addDrop(ModBlocks.RAW_ZINC_BLOCK);
 
+        // ore drops ore(silk touch) or raw ore
         addDrop(ModBlocks.ALUMINIUM_ORE, oreDrops(ModBlocks.ALUMINIUM_ORE, ModItems.RAW_ALUMINIUM));
         addDrop(ModBlocks.BRONZE_ORE, oreDrops(ModBlocks.BRONZE_ORE, ModItems.RAW_BRONZE));
         addDrop(ModBlocks.LEAD_ORE, oreDrops(ModBlocks.LEAD_ORE, ModItems.RAW_LEAD));
         addDrop(ModBlocks.TIN_ORE, oreDrops(ModBlocks.TIN_ORE, ModItems.RAW_TIN));
         addDrop(ModBlocks.TITANIUM_ORE, oreDrops(ModBlocks.TITANIUM_ORE, ModItems.RAW_TITANIUM));
         addDrop(ModBlocks.ZINC_ORE, oreDrops(ModBlocks.ZINC_ORE, ModItems.RAW_ZINC));
+
+        //
 
     }
 }

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    },
+    {
+      "item": "moremetals:zinc_nugget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "moremetals:zinc_ingot"
+  }
+}

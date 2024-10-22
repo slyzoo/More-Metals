@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "zinc",
+  "ingredient": {
+    "item": "moremetals:raw_zinc"
+  },
+  "result": {
+    "id": "moremetals:zinc_ingot"
+  }
+}

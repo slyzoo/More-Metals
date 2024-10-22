@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "moremetals:titanium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "moremetals:titanium_ingot"
+  }
+}

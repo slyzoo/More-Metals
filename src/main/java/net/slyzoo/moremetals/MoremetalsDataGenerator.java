@@ -2,9 +2,7 @@ package net.slyzoo.moremetals;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
-import net.slyzoo.moremetals.datagen.ModBlockTagProvider;
-import net.slyzoo.moremetals.datagen.ModItemTagProvider;
-import net.slyzoo.moremetals.datagen.ModLootTableProvider;
+import net.slyzoo.moremetals.datagen.*;
 
 public class MoremetalsDataGenerator implements DataGeneratorEntrypoint {
 	@Override
@@ -14,5 +12,7 @@ public class MoremetalsDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModBlockTagProvider::new);
 		pack.addProvider(ModItemTagProvider::new);
 		pack.addProvider(ModLootTableProvider::new);
+		pack.addProvider(ModModelProvider::new);
+		pack.addProvider(ModRecipeProvider::new);
 	}
 }
