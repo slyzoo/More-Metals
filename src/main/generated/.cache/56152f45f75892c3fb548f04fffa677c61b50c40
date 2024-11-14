@@ -1,5 +1,5 @@
-// 1.21.1	2024-10-22T05:05:20.5398943	moremetals/Tags for minecraft:block
-dafce8cb1a5a40fff627ab9299bbbe13ea90d2d8 data\minecraft\tags\block\needs_iron_tool.json
-054f6a70935c845550512e8184fb09753ce22aa1 data\minecraft\tags\block\mineable\pickaxe.json
-0d6876dbc1aedb49cc69a1cd05739d7d81e71274 data\minecraft\tags\block\needs_stone_tool.json
+// 1.21.1	2024-11-14T12:18:46.6121167	moremetals/Tags for minecraft:block
+aacefca44151af575e20f48ab29336ea2e91ef09 data\minecraft\tags\block\needs_iron_tool.json
+22a7f55a5bcd90545076dd16c6433ceaf0ae18b8 data\minecraft\tags\block\mineable\pickaxe.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\needs_diamond_tool.json
+bdf6a57eb918c7056e4dbeda537300e5cabd5ff1 data\minecraft\tags\block\needs_stone_tool.json

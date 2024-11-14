@@ -1,5 +1,9 @@
 {
   "values": [
+    "moremetals:bismuth_block",
+    "moremetals:raw_bismuth_block",
+    "moremetals:bismuth_ore",
+    "moremetals:deepslate_bismuth_ore",
     "moremetals:brass_block",
     "moremetals:bronze_block",
     "moremetals:raw_bronze_block",
@@ -8,6 +12,18 @@
     "moremetals:tin_block",
     "moremetals:raw_tin_block",
     "moremetals:tin_ore",
-    "moremetals:deepslate_tin_ore"
+    "moremetals:deepslate_tin_ore",
+    "moremetals:silicon_block",
+    "moremetals:raw_silicon_block",
+    "moremetals:silicon_ore",
+    "moremetals:deepslate_silicon_ore",
+    "moremetals:silver_block",
+    "moremetals:raw_silver_block",
+    "moremetals:silver_ore",
+    "moremetals:deepslate_silver_ore",
+    "moremetals:palladium_block",
+    "moremetals:raw_palladium_block",
+    "moremetals:palladium_ore",
+    "moremetals:deepslate_palladium_ore"
   ]
 }
