@@ -25,6 +25,14 @@ public class ModItemGroups {
                         entries.add(ModBlocks.ALUMINIUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_ALUMINIUM_ORE);
 
+                        entries.add(ModItems.BISMUTH_INGOT);
+                        entries.add(ModItems.BISMUTH_NUGGET);
+                        entries.add(ModBlocks.BISMUTH_BLOCK);
+                        entries.add(ModItems.RAW_BISMUTH);
+                        entries.add(ModBlocks.RAW_BISMUTH_BLOCK);
+                        entries.add(ModBlocks.BISMUTH_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_BISMUTH_ORE);
+
                         entries.add(ModItems.BRASS_INGOT);
                         entries.add(ModItems.BRASS_NUGGET);
                         entries.add(ModBlocks.BRASS_BLOCK);
@@ -45,6 +53,22 @@ public class ModItemGroups {
                         entries.add(ModBlocks.LEAD_ORE);
                         entries.add(ModBlocks.DEEPSLATE_LEAD_ORE);
 
+                        entries.add(ModItems.OSMIUM_INGOT);
+                        entries.add(ModItems.OSMIUM_NUGGET);
+                        entries.add(ModBlocks.OSMIUM_BLOCK);
+                        entries.add(ModItems.RAW_OSMIUM);
+                        entries.add(ModBlocks.RAW_OSMIUM_BLOCK);
+                        entries.add(ModBlocks.OSMIUM_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_OSMIUM_ORE);
+
+                        entries.add(ModItems.PALLADIUM_INGOT);
+                        entries.add(ModItems.PALLADIUM_NUGGET);
+                        entries.add(ModBlocks.PALLADIUM_BLOCK);
+                        entries.add(ModItems.RAW_PALLADIUM);
+                        entries.add(ModBlocks.RAW_PALLADIUM_BLOCK);
+                        entries.add(ModBlocks.PALLADIUM_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_PALLADIUM_ORE);
+
                         entries.add(ModItems.PLATINUM_INGOT);
                         entries.add(ModItems.PLATINUM_NUGGET);
                         entries.add(ModBlocks.PLATINUM_BLOCK);
@@ -56,6 +80,22 @@ public class ModItemGroups {
                         entries.add(ModItems.PURPLE_GOLD_INGOT);
                         entries.add(ModItems.PURPLE_GOLD_NUGGET);
                         entries.add(ModBlocks.PURPLE_GOLD_BLOCK);
+
+                        entries.add(ModItems.SILICON_INGOT);
+                        entries.add(ModItems.SILICON_NUGGET);
+                        entries.add(ModBlocks.SILICON_BLOCK);
+                        entries.add(ModItems.RAW_SILICON);
+                        entries.add(ModBlocks.RAW_SILICON_BLOCK);
+                        entries.add(ModBlocks.SILICON_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_SILICON_ORE);
+
+                        entries.add(ModItems.SILVER_INGOT);
+                        entries.add(ModItems.SILVER_NUGGET);
+                        entries.add(ModBlocks.SILVER_BLOCK);
+                        entries.add(ModItems.RAW_SILVER);
+                        entries.add(ModBlocks.RAW_SILVER_BLOCK);
+                        entries.add(ModBlocks.SILVER_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_SILVER_ORE);
 
                         entries.add(ModItems.STEEL_INGOT);
                         entries.add(ModItems.STEEL_NUGGET);
@@ -76,6 +116,14 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RAW_TITANIUM_BLOCK);
                         entries.add(ModBlocks.TITANIUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_TITANIUM_ORE);
+
+                        entries.add(ModItems.TUNGSTEN_INGOT);
+                        entries.add(ModItems.TUNGSTEN_NUGGET);
+                        entries.add(ModBlocks.TUNGSTEN_BLOCK);
+                        entries.add(ModItems.RAW_TUNGSTEN);
+                        entries.add(ModBlocks.RAW_TUNGSTEN_BLOCK);
+                        entries.add(ModBlocks.TUNGSTEN_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_TUNGSTEN_ORE);
 
                         entries.add(ModItems.ZINC_INGOT);
                         entries.add(ModItems.ZINC_NUGGET);

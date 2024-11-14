@@ -19,6 +19,10 @@ public class ModItems {
 // saturation : -100
 // lightness : 26
 
+    public static final Item BISMUTH_INGOT = registerItem("bismuth_ingot", new Item(new Item.Settings()));
+    public static final Item BISMUTH_NUGGET = registerItem("bismuth_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_BISMUTH = registerItem("raw_bismuth", new Item(new Item.Settings()));
+
     public static final Item BRASS_INGOT = registerItem("brass_ingot", new Item(new Item.Settings()));
     public static final Item BRASS_NUGGET = registerItem("brass_nugget", new Item(new Item.Settings()));
 //  hue : -15
@@ -31,6 +35,17 @@ public class ModItems {
     public static final Item LEAD_INGOT = registerItem("lead_ingot", new Item(new Item.Settings()));
     public static final Item LEAD_NUGGET = registerItem("lead_nugget", new Item(new Item.Settings()));
     public static final Item RAW_LEAD = registerItem("raw_lead", new Item(new Item.Settings()));
+// hue : 36
+// lightness : -26
+// saturation : -75
+
+    public static final Item OSMIUM_INGOT = registerItem("osmium_ingot", new Item(new Item.Settings()));
+    public static final Item OSMIUM_NUGGET = registerItem("osmium_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_OSMIUM = registerItem("raw_osmium", new Item(new Item.Settings()));
+
+    public static final Item PALLADIUM_INGOT = registerItem("palladium_ingot", new Item(new Item.Settings()));
+    public static final Item PALLADIUM_NUGGET = registerItem("palladium_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_PALLADIUM = registerItem("raw_palladium", new Item(new Item.Settings()));
 
     public static final Item PURPLE_GOLD_INGOT = registerItem("purple_gold_ingot", new Item(new Item.Settings()));
     public static final Item PURPLE_GOLD_NUGGET = registerItem("purple_gold_nugget", new Item(new Item.Settings()));
@@ -43,10 +58,25 @@ public class ModItems {
 // lightness : -45
 //  saturation : -50
 
+    public static final Item SILICON_INGOT = registerItem("silicon_ingot", new Item(new Item.Settings()));
+    public static final Item SILICON_NUGGET = registerItem("silicon_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_SILICON = registerItem("raw_silicon", new Item(new Item.Settings()));
+
+    public static final Item SILVER_INGOT = registerItem("silver_ingot", new Item(new Item.Settings()));
+    public static final Item SILVER_NUGGET = registerItem("silver_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_SILVER = registerItem("raw_silver", new Item(new Item.Settings()));
+
+
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings()));
     public static final Item STEEL_NUGGET = registerItem("steel_nugget", new Item(new Item.Settings()));
 //  saturation : -100
 //  lightness : -50
+
+    public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new Item.Settings()));
+    public static final Item TIN_NUGGET = registerItem("tin_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_TIN = registerItem("raw_tin", new Item(new Item.Settings()));
+//  saturation : -100
+//  lightness : 100
 
     public static final Item TITANIUM_INGOT = registerItem("titanium_ingot", new Item(new Item.Settings()));
     public static final Item TITANIUM_NUGGET = registerItem("titanium_nugget", new Item(new Item.Settings()));
@@ -55,11 +85,9 @@ public class ModItems {
 //  lightness : -20
 //  saturation : -90
 
-    public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new Item.Settings()));
-    public static final Item TIN_NUGGET = registerItem("tin_nugget", new Item(new Item.Settings()));
-    public static final Item RAW_TIN = registerItem("raw_tin", new Item(new Item.Settings()));
-//  saturation : -100
-//  lightness : 100
+    public static final Item TUNGSTEN_INGOT = registerItem("tungsten_ingot", new Item(new Item.Settings()));
+    public static final Item TUNGSTEN_NUGGET = registerItem("tungsten_nugget", new Item(new Item.Settings()));
+    public static final Item RAW_TUNGSTEN = registerItem("raw_tungsten", new Item(new Item.Settings()));
 
     public static final Item ZINC_INGOT = registerItem("zinc_ingot", new Item(new Item.Settings()));
     public static final Item ZINC_NUGGET = registerItem("zinc_nugget", new Item(new Item.Settings()));
